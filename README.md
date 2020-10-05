@@ -4,3 +4,5 @@ This is the improvement of the initial grade 12 capstone project Alex originally
 
 Still very much a work in progress and not inteneded for actual use. Mainly done for learning purposes about data preperation, tensorflow, LSTM, and training.
 
+Example of some prediction made by the 2.475% loss NASDAQ model and a feedfoward model trained on only one stock:
+![](images/2.475.png)
